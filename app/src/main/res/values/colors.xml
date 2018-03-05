@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A312A</color>
+    <color name="colorPrimaryDark">#4A312A</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="voilet">#702381</color>
+    <color name="imgBackground">#FFF7DA</color>
+    <color name="textNumbersBackground">@android:color/holo_orange_dark</color>
+    <color name="textFamilyBackground">@android:color/holo_green_dark</color>
+    <color name="textColorsBackground">#762A80</color>
+    <color name="textPhrasesBackground">#485FAC</color>
+</resources>
